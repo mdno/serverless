@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "apollo-client": "^1.4.2",
-    "archiver": "^1.1.0",
+    "archiver": "^7.0.0",
     "async": "^1.5.2",
     "aws-sdk": "^2.7.13",
     "bluebird": "^3.4.0",
